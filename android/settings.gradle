@@ -1,0 +1,3 @@
+rootProject.name = 'dd_helper_4216'
+
+include ':app'
